@@ -12,4 +12,4 @@ una oportunidad de laboral en Data science, Machine learning, desarrollador de P
 
 ### Skills
 Python (pandas, numpy, matplotlib) / Python for Data Science: tensorflow, numpy, pandas, matplotlib,
-keras, sklearn / C ++ / Algoritmos de machine learning / SQL 
+keras, sklearn / C ++ / Algoritmos de machine learning / SQL
